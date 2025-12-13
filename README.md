@@ -1,10 +1,10 @@
-# noginx
+# nginx-alert
 
 A real-time NGINX anomaly detection and alert system.
 
 
 
-# Steps to Run noginx
+# Steps to Run nginx-alert
 - Make sure you have NGINX installed
 - It will automatically capture logs from "/var/log/nginx/access.log", this is where Unix stores its NGINX logs.
 - Make sure you are in the root directory ie noginx
